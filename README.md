@@ -6,7 +6,7 @@
 [![Optimization](https://img.shields.io/badge/Optuna-Hyperparameter%20Tuning-2088ff.svg)]()
 
 Official repository for the research paper: **"Bayesian-Inferred Brain Tumor Classification: Combining MC Dropout with Explainable AI for Uncertainty-Aware Decision Support"** by *Cornelius Joses Javier Suyanto* and *Hartono* (Department of Mathematics, Faculty of Science and Technology, Sanata Dharma University, Yogyakarta, Indonesia).
-
+The dataset and other materials can be downloaded via the following link => https://www.kaggle.com/datasets/corneliusjoses/brain-tumor-detection-suyanto-and-hartono
 ---
 
 ## 📌 Overview
